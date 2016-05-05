@@ -5,5 +5,6 @@ Previous work on the prototyping can be found here https://piksel.no/mediawiki/i
 
 A video of the prototype can be found here https://vimeo.com/146943535
 
-The current version of the device is being made in Shanghai NYU PCI during a residency. The aim is to build a speaker from a thin metal globe (possibly aluminium) by using copper coils and magnets. The bottom of the globe has been cut off and the viewer puts their head inside to experience the device. This is working but I need to make the coils longer and increase the volume of the recording. I'm also aiming to use a motor running off the same mp3 that will play through the coil to drive a motor to move fabric within the globe. This is not working currently.
+The current version of the device was  made in Shanghai NYU PCI during a residency in collaboration with Shanghai NYU Gallery. The device turns a thin metal globe (possibly aluminium) into  a speaker by using copper coils and magnets, a process developed in collaboration with Kasia Justka at MonoShop Berlin https://www.facebook.com/Mono-Shop-628841883927078/.
 
+The bottom of the globe was  cut off and the viewer puts their head inside to experience the device. After much troubleshooting, this is working along with a motor running off the same mp3 that moves fabric within the globe. 
